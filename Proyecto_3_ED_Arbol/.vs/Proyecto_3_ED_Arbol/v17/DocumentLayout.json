@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven\\Desktop\\UH\\Estructura de datos\\Proyecto_3_ED_\\Proyecto_3_ED_Arbol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095B4517-7B98-4543-BC6C-A1F62ABF7D06}|Proyecto_3_ED_Arbol\\Proyecto_3_ED_Arbol.csproj|c:\\users\\steven\\desktop\\uh\\estructura de datos\\proyecto_3_ed_\\proyecto_3_ed_arbol\\proyecto_3_ed_arbol\\arboldecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095B4517-7B98-4543-BC6C-A1F62ABF7D06}|Proyecto_3_ED_Arbol\\Proyecto_3_ED_Arbol.csproj|solutionrelative:proyecto_3_ed_arbol\\arboldecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArbolDecision.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Desktop\\UH\\Estructura de datos\\Proyecto_3_ED_\\Proyecto_3_ED_Arbol\\Proyecto_3_ED_Arbol\\ArbolDecision.cs",
+              "RelativeDocumentMoniker": "Proyecto_3_ED_Arbol\\ArbolDecision.cs",
+              "ToolTip": "C:\\Users\\Steven\\Desktop\\UH\\Estructura de datos\\Proyecto_3_ED_\\Proyecto_3_ED_Arbol\\Proyecto_3_ED_Arbol\\ArbolDecision.cs",
+              "RelativeToolTip": "Proyecto_3_ED_Arbol\\ArbolDecision.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAIwLUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T02:50:42.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

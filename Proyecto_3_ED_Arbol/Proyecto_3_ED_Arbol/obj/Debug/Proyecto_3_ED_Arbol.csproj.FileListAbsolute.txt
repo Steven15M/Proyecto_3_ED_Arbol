@@ -1,0 +1,7 @@
+C:\Users\Steven\Desktop\UH\Estructura de datos\Proyecto_3_ED_\Proyecto_3_ED_Arbol\Proyecto_3_ED_Arbol\obj\Debug\Proyecto_3_ED_Arbol.csproj.AssemblyReference.cache
+C:\Users\Steven\Desktop\UH\Estructura de datos\Proyecto_3_ED_\Proyecto_3_ED_Arbol\Proyecto_3_ED_Arbol\obj\Debug\Proyecto_3_ED_Arbol.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\UH\Estructura de datos\Proyecto_3_ED_\Proyecto_3_ED_Arbol\Proyecto_3_ED_Arbol\bin\Debug\Proyecto_3_ED_Arbol.exe.config
+C:\Users\Steven\Desktop\UH\Estructura de datos\Proyecto_3_ED_\Proyecto_3_ED_Arbol\Proyecto_3_ED_Arbol\bin\Debug\Proyecto_3_ED_Arbol.exe
+C:\Users\Steven\Desktop\UH\Estructura de datos\Proyecto_3_ED_\Proyecto_3_ED_Arbol\Proyecto_3_ED_Arbol\bin\Debug\Proyecto_3_ED_Arbol.pdb
+C:\Users\Steven\Desktop\UH\Estructura de datos\Proyecto_3_ED_\Proyecto_3_ED_Arbol\Proyecto_3_ED_Arbol\obj\Debug\Proyecto_3_ED_Arbol.exe
+C:\Users\Steven\Desktop\UH\Estructura de datos\Proyecto_3_ED_\Proyecto_3_ED_Arbol\Proyecto_3_ED_Arbol\obj\Debug\Proyecto_3_ED_Arbol.pdb
